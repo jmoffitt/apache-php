@@ -1,4 +1,5 @@
 # Docker version 1.13.0-rc5
+# v 1.1.0
 
 FROM ubuntu:xenial
 MAINTAINER J. Patrick Moffitt (zuryn@zuryn.net)
